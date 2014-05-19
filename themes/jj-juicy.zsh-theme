@@ -22,7 +22,7 @@ ZSH_THEME_GIT_PROMPT_RENAMED="%{$fg[magenta]%} ➜"
 ZSH_THEME_GIT_PROMPT_UNMERGED="%{$fg[yellow]%} ═"
 ZSH_THEME_GIT_PROMPT_UNTRACKED="%{$fg[cyan]%} ✭"
 
-vim_ins_mode="%{$fg[yellow]%}^_^%{$reset_color%} "
+vim_ins_mode="%{$fg[yellow]%}…%{$reset_color%} "
 vim_cmd_mode="⌘ "
 vim_mode=$vim_ins_mode
 
